@@ -36,7 +36,7 @@ On Arch Linux, executing the following command should suffice:
 
 On OS X, you can use [Homebrew](http://brew.sh) to install the dependencies:
 
-    $ brew install python3 gawk gnu-sed gmp mpfr libmpc isl zlib expat
+    $ brew install python3 gawk gnu-sed gmp mpfr libmpc isl zlib expat texinfo
 
 To build the glibc (Linux) on OS X, you will need to build within a case-sensitive file
 system.  The simplest approach is to create and mount a new disk image with
